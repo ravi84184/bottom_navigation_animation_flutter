@@ -6,7 +6,8 @@ We apply simple animation on bottom navigation
 
 ### Bottom Navigation with animation demo
 
-![App UI](https://github.com/ravi84184/bottom_navigation_animation_flutter/blob/main/Untitled%20Design.png)
+![App UI](https://github.com/ravi84184/bottom_navigation_animation_flutter/blob/master/images/New%20Project.png)
+![App UI](https://github.com/ravi84184/bottom_navigation_animation_flutter/blob/master/images/demo.gif)
 
 
 ## Visitors Count
